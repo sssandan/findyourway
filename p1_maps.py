@@ -1,8 +1,3 @@
-# Sandan, Ryan
-# Professor Nadia
-# Project 1
-# May 9, 2019
-
 '''
  building URLS
  making HTTP requests
