@@ -1,8 +1,3 @@
-# Sandan, Ryan
-# Professor Nadia
-# Project 1
-# May 9, 2019
-
 from p1_maps import maps, getLatLng
 from p1_out import steps, latLong, totalTime
 from p1_out import totalDistance, elevation
